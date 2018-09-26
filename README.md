@@ -28,7 +28,7 @@ int main()
 		cout<<"Payment=";
 		cin>>employees[i].payment;
 	}
-    cout<<"Payment above 700:"<<endl;
+    cout<<"Payment below 700:"<<endl;
 	for(int i=0;i<n;i++)
 	{
 		if(employees[i].payment<700) 
