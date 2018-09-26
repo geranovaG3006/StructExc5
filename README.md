@@ -22,7 +22,7 @@ int main()
 	{
 		cout<<"Name=";
 		cin.get();
-        cin.getline(employees[i].name,40);
+        	cin.getline(employees[i].name,40);
 		cout<<"EGN=";
 		cin>>employees[i].egn;
 		cout<<"Duty=";
