@@ -1,6 +1,8 @@
 # StructExc5
 Informatics Coursebook, Structure, p143
 
+// Да се напише програма, която създава структура Firma с полета name, egn, duty и payment, указващи името на работник във фирмата, неговото ЕГН, длъжност и заплата. Да се въведе цяло число n и след него n на брой данни от тип Firma. Да се изведат имената на тези работници, чиято заплата е по-малка от 700 лв
+
 #include<iostream>
 using namespace std;
 struct Firma
